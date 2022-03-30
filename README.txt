@@ -60,7 +60,7 @@ Pulsar.txt             | 17
 Example compilation & running from file (Linux):
 
             gcc -Wall ConwayGameOfLife.c -std=c99
-            ./a.out GosperGliderGun.txt 50
+            ./a.out Boards/GosperGliderGun.txt 50
 
                                      
 Exit the program with CTRL+C
